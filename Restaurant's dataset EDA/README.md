@@ -9,4 +9,4 @@ Restaurants and itineraries are collected, cleaned and retrieved with RAG.
 🍜Restaurants and cafes are the most important of travelling and tourists eager to visit places with high reviews. 
 That is why I chose three biggest restaurants' datasets on Kaggle that cover Europe, Asia, North and South America and made thorough analysis, then merged them for the further RAG system . 
 Steps done and analysis insights are shown in the notebook.
-The distribution of restaurants by countries are displayed by map.
+The distributions of restaurants by countries are displayed by maps.
